@@ -1,0 +1,38 @@
+.background {
+  background-color:aquamarine; /* Change this to whatever color you want */
+  /* You can also use background-image, background-size, background-position, etc. */
+}
+.main {
+  margin-top: 5em;
+}
+
+.center {
+  justify-content: center;
+  padding: 10px;
+}
+.head
+{
+  background-color: blueviolet;
+}
+.newback
+{
+  background-color:aquamarine;
+}
+.back
+{
+  background-color:hotpink;
+}
+.ui.search input {
+  width: 100%;
+  border-radius: 0 !important;
+}
+
+.item {
+  padding: 15px 0px !important;
+}
+
+i.icon {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
